@@ -47,3 +47,16 @@ Colin Williams, TripAdvisor
 - The Observer Pattern can lead to deep complexity, when Subjects can also be Observers themselves
 - The Mediator Pattern takes the logic that is generalized, and consolidates them into one place so that they can interop. 
 
+## Automate Your Site's Front-End Performance
+Kitt Hodsden @kitt
+
+[Slides](https://kitt.hodsden.org/_/e4e2015-khodsden-automate-front-end-performance.pdf)
+
+Performance is everyone's problem.
+
+1. Determine key metrics
+1. Establish a baseline
+1. Make a change
+1. Measure effects
+
+Check out https://lafikl.github.io/perfBar/
