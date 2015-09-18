@@ -20,3 +20,15 @@ When commenting on PRs, and giving feedback in general:
   
   ![](http://i.imgur.com/4GWln11.jpg)
 - Empathize 
+
+## Functional JavaScript
+Ben Anderson @ben_anderson
+
+### The future has to be functional
+- DOM is stateful & imperative
+- UI layer should be pure – same output for a given input
+- Immutable.js provides immutable collections for JS
+- Immutable.record as an immutable model for your domain instead
+- Services and queries take data and transform it, without mutating the original data
+- Your app is a pipeline that processes data, and should be deterministic
+- Redux is predictable and behaves consistently, and has a time traveling debugger (!)
